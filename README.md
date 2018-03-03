@@ -5,7 +5,9 @@ Libraries that you will be needed are:
 1. BeautifulSoup
 2. urllib
 
-installation od the libraries
+installation of the libraries
+
 for python 3.6
+
  --pip install urllib3
  --pip install beautifulsoup4 
