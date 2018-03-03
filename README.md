@@ -10,4 +10,5 @@ installation of the libraries
 for python 3.6
 
  --pip install urllib3
+ 
  --pip install beautifulsoup4 
